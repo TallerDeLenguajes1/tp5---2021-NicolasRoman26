@@ -21,7 +21,7 @@ namespace TP5
                     inverso = inverso * 10 + aux;
                 }
 
-                Console.WriteLine("El numero ingresado al invertirlo queda como: " + inverso);
+                Console.WriteLine("El numero ingresado, al invertirlo queda como: " + inverso);
             }
             else
             {
